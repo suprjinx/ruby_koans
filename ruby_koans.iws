@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef0e134-8659-41e7-8044-d2ccca367a1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_arrays.rb" afterPath="$PROJECT_DIR$/about_arrays.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby_koans.ipr" afterPath="$PROJECT_DIR$/ruby_koans.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_array_assignment.rb" afterPath="$PROJECT_DIR$/about_array_assignment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_hashes.rb" afterPath="$PROJECT_DIR$/about_hashes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby_koans.iws" afterPath="$PROJECT_DIR$/ruby_koans.iws" />
     </list>
     <ignored path="ruby_koans.iws" />
@@ -67,7 +67,7 @@
       <file leaf-file-name="path_to_enlightenment.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path_to_enlightenment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="17" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,10 +82,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_nil.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_nil.rb">
+      <file leaf-file-name="discover.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autotest/discover.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="21" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rubykoan.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autotest/rubykoan.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="40" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -109,10 +127,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_array_assignment.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_array_assignment.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.1289833">
+            <state line="35" column="88" selection-start="1112" selection-end="1112" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_hashes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="106" column="49" selection-start="2852" selection-end="2852" vertical-scroll-proportion="1.1014041">
               <folding />
             </state>
           </provider>
@@ -137,6 +164,8 @@
         <option value="$PROJECT_DIR$/about_nil.rb" />
         <option value="$PROJECT_DIR$/about_objects.rb" />
         <option value="$PROJECT_DIR$/about_arrays.rb" />
+        <option value="$PROJECT_DIR$/about_array_assignment.rb" />
+        <option value="$PROJECT_DIR$/about_hashes.rb" />
       </list>
     </option>
   </component>
@@ -374,15 +403,16 @@
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24983902" sideWeight="0.67057675" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -401,8 +431,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -424,7 +454,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="ongoing" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -437,16 +467,12 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="ongoing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_asserts.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="17" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_nil.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="21" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" />
@@ -457,11 +483,6 @@
         <state line="53" column="21" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path_to_enlightenment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="26" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0">
@@ -469,9 +490,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about_asserts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/discover.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/rubykoan.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.path_progress">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="120" selection-start="58" selection-end="120" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path_to_enlightenment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rakeTasks">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.1289833">
+        <state line="35" column="88" selection-start="1112" selection-end="1112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="49" selection-start="2852" selection-end="2852" vertical-scroll-proportion="1.1014041">
           <folding />
         </state>
       </provider>
