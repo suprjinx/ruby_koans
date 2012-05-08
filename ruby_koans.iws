@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef0e134-8659-41e7-8044-d2ccca367a1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_strings.rb" afterPath="$PROJECT_DIR$/about_strings.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_symbols.rb" afterPath="$PROJECT_DIR$/about_symbols.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby_koans.iws" afterPath="$PROJECT_DIR$/ruby_koans.iws" />
-    </list>
+    <list default="true" id="6ef0e134-8659-41e7-8044-d2ccca367a1f" name="Default" comment="" />
     <ignored path="ruby_koans.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
