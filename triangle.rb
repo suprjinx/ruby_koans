@@ -14,7 +14,28 @@
 #   about_triangle_project_2.rb
 #
 def triangle(a, b, c)
-  # WRITE THIS CODE
+
+  if a < 1 || b < 1 || c < 1
+      raise TriangleError.new "one or more sides too small"
+  end
+
+  if (a + b) <= c || (a + c) <= b || (b + c) <= a 
+    raise TriangleError.new "two sides added are less than third"
+  end
+  
+  case
+    when a == b && a == c
+      :equilateral
+    when a != b && a == c
+      :isosceles
+    when a == b && a != c
+      :isosceles
+    when b == c
+      :isosceles
+    else
+      :scalene
+  end
+
 end
 
 # Error class used in part 2.  No need to change this code.

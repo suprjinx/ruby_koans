@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef0e134-8659-41e7-8044-d2ccca367a1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_constants.rb" afterPath="$PROJECT_DIR$/about_constants.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_control_statements.rb" afterPath="$PROJECT_DIR$/about_control_statements.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_true_and_false.rb" afterPath="$PROJECT_DIR$/about_true_and_false.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_exceptions.rb" afterPath="$PROJECT_DIR$/about_exceptions.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby_koans.iws" afterPath="$PROJECT_DIR$/ruby_koans.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
     </list>
     <ignored path="ruby_koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,91 +64,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_array_assignment.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
+      <file leaf-file-name="about_triangle_project.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="88" selection-start="1112" selection-end="1112" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_hashes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <file leaf-file-name="triangle.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/triangle.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="49" selection-start="2852" selection-end="2852" vertical-scroll-proportion="0.0">
+            <state line="37" column="0" selection-start="855" selection-end="855" vertical-scroll-proportion="0.9544765">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_strings.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_strings.rb">
+      <file leaf-file-name="about_exceptions.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="22" selection-start="5194" selection-end="5194" vertical-scroll-proportion="0.0">
+            <state line="62" column="31" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edgecase.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edgecase.rb">
+      <file leaf-file-name="about_triangle_project_2.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="8" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_symbols.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_symbols.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="26" selection-start="2576" selection-end="2576" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="25" selection-start="4823" selection-end="4823" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_methods.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_methods.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="30" selection-start="3687" selection-end="3687" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_constants.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_constants.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="18" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_control_statements.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="39" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_true_and_false.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="47" selection-start="671" selection-end="671" vertical-scroll-proportion="0.70947033">
+            <state line="12" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -183,6 +128,8 @@
         <option value="$PROJECT_DIR$/about_constants.rb" />
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
+        <option value="$PROJECT_DIR$/about_exceptions.rb" />
+        <option value="$PROJECT_DIR$/triangle.rb" />
       </list>
     </option>
   </component>
@@ -402,7 +349,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
-    <configuration useDefault="true">C:\Users\Geoffrey\AppData\Roaming\Subversion</configuration>
+    <configuration useDefault="true">C:\Users\gwilson\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -490,34 +437,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/path_to_enlightenment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.rakeTasks">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="88" selection-start="1112" selection-end="1112" vertical-scroll-proportion="0.0">
@@ -597,7 +516,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="671" selection-end="671" vertical-scroll-proportion="0.70947033">
+        <state line="26" column="47" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="31" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="855" selection-end="855" vertical-scroll-proportion="0.9544765">
           <folding />
         </state>
       </provider>
