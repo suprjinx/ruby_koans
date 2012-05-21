@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6ef0e134-8659-41e7-8044-d2ccca367a1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_classes.rb" afterPath="$PROJECT_DIR$/about_classes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_dice_project.rb" afterPath="$PROJECT_DIR$/about_dice_project.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_inheritance.rb" afterPath="$PROJECT_DIR$/about_inheritance.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_open_classes.rb" afterPath="$PROJECT_DIR$/about_open_classes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_modules.rb" afterPath="$PROJECT_DIR$/about_modules.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_scope.rb" afterPath="$PROJECT_DIR$/about_scope.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ruby_koans.iws" afterPath="$PROJECT_DIR$/ruby_koans.iws" />
     </list>
     <ignored path="ruby_koans.iws" />
@@ -66,15 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_iteration.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_iteration.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="28" selection-start="2748" selection-end="2748" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_blocks.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,19 +127,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_modules.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_modules.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.3376">
+            <state line="60" column="27" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_file.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example_file.txt">
+      <file leaf-file-name="about_scope.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_scope.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="76" column="36" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_class_methods.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.22405271">
               <folding />
             </state>
           </provider>
@@ -171,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_symbols.rb" />
-        <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/about_methods.rb" />
         <option value="$PROJECT_DIR$/about_constants.rb" />
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
@@ -187,6 +183,8 @@
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/about_dice_project.rb" />
         <option value="$PROJECT_DIR$/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/about_modules.rb" />
+        <option value="$PROJECT_DIR$/about_scope.rb" />
       </list>
     </option>
   </component>
@@ -497,20 +495,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="39" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
@@ -604,7 +588,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_modules.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.3376">
+        <state line="60" column="27" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="36" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.22405271">
           <folding />
         </state>
       </provider>
