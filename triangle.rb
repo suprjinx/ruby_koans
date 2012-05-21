@@ -15,22 +15,19 @@
 #
 def triangle(a, b, c)
 
-  if a < 1 || b < 1 || c < 1
+  list = [a, b, c].sort
+  if list.min < 1
       raise TriangleError.new "one or more sides too small"
   end
 
-  if (a + b) <= c || (a + c) <= b || (b + c) <= a 
-    raise TriangleError.new "two sides added are less than third"
+  if list[0] + list[1] <= list[2] 
+    raise TriangleError.new "two sides added are <= third"
   end
   
   case
     when a == b && a == c
       :equilateral
-    when a != b && a == c
-      :isosceles
-    when a == b && a != c
-      :isosceles
-    when b == c
+    when a == b || a == c || b == c
       :isosceles
     else
       :scalene
